@@ -1,3 +1,4 @@
+/* COMMENT ALTA$ROD */
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { LoginForm } from "@/components/login-form"
